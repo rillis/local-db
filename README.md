@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/github/license/rillis/local-db)
 
 ```xml
+<!-- NOT AVAIABLE YET -->
 <dependency>
   <groupId>com.github.rillis</groupId>
   <artifactId>localdb</artifactId>
